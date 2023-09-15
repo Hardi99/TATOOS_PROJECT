@@ -1,4 +1,4 @@
-# TATOO_MY_FACE
+# TATOOS_PROJECT
 
 ## Extensions utiles
 - Twig Language : coloration des fichiers Twig
@@ -12,4 +12,3 @@ J'ai justement un problème avec cette dernière, j'ai essayé d'intégrer Jawg 
 J'espère que vous pourrez m'aider au plus vite
 
 P.S : La base de données en SQL est disponible pour accéder à 100% au projet
-# TATOOS_PROJECT
